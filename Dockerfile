@@ -1,1 +1,1 @@
-FROM hello-world
+FROM resin/rpi-raspbian
